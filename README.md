@@ -1,6 +1,6 @@
 # Code Quiz Apps
 
-The Code Quiz apps is a timed coding quiz with multiple-choice questions, it's intended for someone who is wants to test their knowledge about JavaScript. Hope you enjoy it....
+The Code Quiz apps is a timed coding quiz with multiple-choice questions, it's intended for someone who is wants to test their knowledge about JavaScript. Hope you enjoy playing it....
 
 Deployed Site URL: https://vanjungthawng.github.io/Code-Quiz/
 
